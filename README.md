@@ -19,6 +19,7 @@ This is an expenses tracker app built with React. It allows you to add, remove a
 - Tailwind CSS
 
 ## Color Palette
+
 [Color Palette](https://colorhunt.co/palette/1534483c5b6f948979dfd0b8)
 
 ## Installation
