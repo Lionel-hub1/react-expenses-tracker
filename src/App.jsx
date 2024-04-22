@@ -1,9 +1,12 @@
+import { BrowserRouter, Route, Routes } from "react-router-dom";
+
 function App() {
   return (
-    <>
-      <h1 className="text-3xl text-center font-bold">Expense Tracker App</h1>
-    </>
-  );
+    <BrowserRouter>
+      <Routes>
+        <Route
+      </Routes>
+    </BrowserRouter>
 }
 
 export default App;
